@@ -1,0 +1,13 @@
+# Level Configuration File
+
+0 
+# Level Difficulty (0, 1, or 2)
+
+# Pac-Man Definitions:
+# Diameter	PosX	PosY	WaitTimeMs	Direction	Bounces	IsStopped
+#--------------------------------------------------------------------
+40	100	100	80	H	0	false
+40	540	200	80	H	0	false
+30	320	50	100	V	0	false
+30	150	430	100	V	0	false
+50	400	350	60	H	0	false
